@@ -22,11 +22,24 @@ The data used for this project comes from players.csv and paths.csv. The specifi
 
 ## Highest Rank by Year
 
-The first step in my analysis was to total the number of each higest rank by year. The below graphs show the percent of each highest rank for each recruit year. 
+The first step in my analysis was to total the number of each higest rank by year. The below graphs show the percent of each highest rank for each recruit year.
 
-![2001highest-2](https://user-images.githubusercontent.com/74326062/165976978-d0ec51e7-8fe5-491f-872a-ebd70cafc3a9.png) ![2002highest-2](https://user-images.githubusercontent.com/74326062/165975193-73c34f8c-0692-4396-935c-466a97fd72f4.png)
-
-
+![1998highest-2](https://user-images.githubusercontent.com/74326062/165977385-c65ae919-e044-4119-a0e9-af5f09a501a2.png)
+![1999highest-2](https://user-images.githubusercontent.com/74326062/165977408-db1133bc-f071-43a7-9168-3d1de197a705.png)
+![2000highest-2](https://user-images.githubusercontent.com/74326062/165977424-c65be93e-048c-4d88-9bf3-9957e5ed1aea.png)
+![2001highest-2](https://user-images.githubusercontent.com/74326062/165976978-d0ec51e7-8fe5-491f-872a-ebd70cafc3a9.png) 
+![2002highest-2](https://user-images.githubusercontent.com/74326062/165975193-73c34f8c-0692-4396-935c-466a97fd72f4.png)
+![2003highest-2](https://user-images.githubusercontent.com/74326062/165977463-36606994-2b24-47e6-88bc-918f03c0914f.png)
+![2004highest-2](https://user-images.githubusercontent.com/74326062/165977476-67adfeed-9800-4a0d-a97e-e7318e9a1e01.png)
+![2005highest-2](https://user-images.githubusercontent.com/74326062/165977485-86f6de2f-9001-47a8-b2ff-26d06a0d8dda.png)
+![2006highest-2](https://user-images.githubusercontent.com/74326062/165977506-58baea74-05eb-4069-b082-108c0415fdaa.png)
+![2007highest-2](https://user-images.githubusercontent.com/74326062/165977515-df5f84d0-ba57-49eb-9f3f-c3132a2bb6ec.png)
+![2008highest-2](https://user-images.githubusercontent.com/74326062/165977526-532d8b60-69cc-4f1e-a57d-1ea796e79c56.png)
+![2009highest-2](https://user-images.githubusercontent.com/74326062/165977542-c4b2c4a8-3bf4-4aec-9a51-1a5bacadf498.png)
+![2010highest-2](https://user-images.githubusercontent.com/74326062/165977551-3c65852f-84d7-4156-8623-131f1141c793.png)
+![2011highest-2](https://user-images.githubusercontent.com/74326062/165977558-fc6cb50e-67af-45e1-8c01-48456f716473.png)
+![2012highest-2](https://user-images.githubusercontent.com/74326062/165977570-c702f896-3280-4bcf-aee8-87c5e80f06da.png)
+![2013highest-2](https://user-images.githubusercontent.com/74326062/165977574-740cfec6-8545-4d57-beb6-0a070b1b185d.png)
 
 ## Statistical Categories by Year
 
