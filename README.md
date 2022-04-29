@@ -25,7 +25,6 @@ The data used for this project comes from players.csv and paths.csv. The specifi
 The first step in my analysis was to total the number of each higest rank by year. The below graphs show the percent of each highest rank for each recruit year.
 
 ![Legend](https://user-images.githubusercontent.com/74326062/165979947-917d0173-aa7a-478a-9373-a2c571dc44d3.png)
-
 ![1998highest-2](https://user-images.githubusercontent.com/74326062/165977385-c65ae919-e044-4119-a0e9-af5f09a501a2.png)
 ![1999highest-2](https://user-images.githubusercontent.com/74326062/165977408-db1133bc-f071-43a7-9168-3d1de197a705.png)
 ![2000highest-2](https://user-images.githubusercontent.com/74326062/165977424-c65be93e-048c-4d88-9bf3-9957e5ed1aea.png)
@@ -34,6 +33,7 @@ The first step in my analysis was to total the number of each higest rank by yea
 ![2003highest-2](https://user-images.githubusercontent.com/74326062/165977463-36606994-2b24-47e6-88bc-918f03c0914f.png)
 ![2004highest-2](https://user-images.githubusercontent.com/74326062/165977476-67adfeed-9800-4a0d-a97e-e7318e9a1e01.png)
 ![2005highest-2](https://user-images.githubusercontent.com/74326062/165977485-86f6de2f-9001-47a8-b2ff-26d06a0d8dda.png)
+![Legend](https://user-images.githubusercontent.com/74326062/165979947-917d0173-aa7a-478a-9373-a2c571dc44d3.png)
 ![2006highest-2](https://user-images.githubusercontent.com/74326062/165977506-58baea74-05eb-4069-b082-108c0415fdaa.png)
 ![2007highest-2](https://user-images.githubusercontent.com/74326062/165977515-df5f84d0-ba57-49eb-9f3f-c3132a2bb6ec.png)
 ![2008highest-2](https://user-images.githubusercontent.com/74326062/165977526-532d8b60-69cc-4f1e-a57d-1ea796e79c56.png)
@@ -42,6 +42,7 @@ The first step in my analysis was to total the number of each higest rank by yea
 ![2011highest-2](https://user-images.githubusercontent.com/74326062/165977558-fc6cb50e-67af-45e1-8c01-48456f716473.png)
 ![2012highest-2](https://user-images.githubusercontent.com/74326062/165977570-c702f896-3280-4bcf-aee8-87c5e80f06da.png)
 ![2013highest-2](https://user-images.githubusercontent.com/74326062/165977574-740cfec6-8545-4d57-beb6-0a070b1b185d.png)
+![Legend](https://user-images.githubusercontent.com/74326062/165979947-917d0173-aa7a-478a-9373-a2c571dc44d3.png)
 
 ## Statistical Categories by Year
 
