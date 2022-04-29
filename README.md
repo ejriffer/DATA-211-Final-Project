@@ -65,7 +65,8 @@ One further comment to make about this data is the large number of missing value
 
 Researching further, I believe there are null values for players who did not make it into the NBA, or did not play for a very long time. Because of this they have no information to be listed. So, the smaller amount of nulls for a recruit year means more players made it into the NBA and played for a longer time. Recruit year 1999 has the smallest amount of nulls at 69%. 
 
-# Sources
+### Sources
 
 Goldenberg, R. G. (2019, March 4). The Pudding NBA Data. GitHub. Retrieved April 29, 2022, from https://github.com/the-                                                       
+  
   pudding/data/blob/master/hype/README.md 
