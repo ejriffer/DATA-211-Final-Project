@@ -44,6 +44,8 @@ The first step in my analysis was to total the number of each higest rank by yea
 ![2013highest-2](https://user-images.githubusercontent.com/74326062/165977574-740cfec6-8545-4d57-beb6-0a070b1b185d.png)
 ![Legend](https://user-images.githubusercontent.com/74326062/165979947-917d0173-aa7a-478a-9373-a2c571dc44d3.png)
 
+Based on the above graphs you can see that a majority of the players from each recruit year do not progress past college. 
+
 ## Statistical Categories by Year
 
-
+## Missing Data
