@@ -25,12 +25,10 @@ The data used for this project comes from players.csv and paths.csv. The specifi
 The first step in my analysis was to total the number of each higest rank by year. The below graphs show the percent of each highest rank for each recruit year. 
 
 <p float="left">
-  <img src="/img1.png" width="100" />
+  <img src=![2001highest-2](https://user-images.githubusercontent.com/74326062/165975305-e228d4fe-835a-4c33-a882-1a48788b4744.png) width="100" />
   <img src="/img2.png" width="100" /> 
   <img src="/img3.png" width="100" />
 </p>
-
-![2001highest-2](https://user-images.githubusercontent.com/74326062/165975305-e228d4fe-835a-4c33-a882-1a48788b4744.png)
 
 
 ![2002highest-2](https://user-images.githubusercontent.com/74326062/165975193-73c34f8c-0692-4396-935c-466a97fd72f4.png)
