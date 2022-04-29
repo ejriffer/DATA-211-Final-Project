@@ -47,9 +47,18 @@ The first step in my analysis was to total the number of each higest rank by yea
 Based on the above graphs you can see that a majority of the players from each recruit year do not progress past college. The year with the most 'allstars' is 2004 with 7.
 
 ## Statistical Categories by Year
+
+The next step in my analysis was graphing the average of each statistical category by recruit year to see if we could determine which year had the highest number for each measure.
+
 ![meanws48](https://user-images.githubusercontent.com/74326062/165988970-67e01db3-355f-46eb-8eb2-abe31b6eef9c.png)
 ![meanvorp](https://user-images.githubusercontent.com/74326062/165989092-e3fbfe3a-6b2e-4f6a-b370-a4e74851b426.png)
 ![meanpipm](https://user-images.githubusercontent.com/74326062/165989161-9715a69e-70f8-4912-9780-340115d98941.png)
 ![meanwa](https://user-images.githubusercontent.com/74326062/165989179-48571525-22e8-46ec-aa0e-f672aace4d83.png)
 
+Based on the graphs above we can see that 2 recruit years seem to be at the top of each statisitcal category: 2003 and 2009. In fact, 2003 has the best number for every statistical measure used in this project. Looking into this recruit class, the general consensus seems to agree that this is one of the best classes of all time. This class includes players such as: LeBron James, Carmelo Anthony, Chris Bosh, and Dwayne Wade.
+
 ## Missing Data
+
+One further comment to make about this data is the large number of missing values. The below chart shows the percentage of each class that has no statistical data.
+
+![chartnulls](https://user-images.githubusercontent.com/74326062/165990518-6a87acf1-5048-4262-9c55-2e2d617a6944.png)
