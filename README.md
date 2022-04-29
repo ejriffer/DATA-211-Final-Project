@@ -67,6 +67,4 @@ Researching further, I believe there are null values for players who did not mak
 
 ### Sources
 
-Goldenberg, R. G. (2019, March 4). The Pudding NBA Data. GitHub. Retrieved April 29, 2022, from https://github.com/the-                                                       
-  
-  pudding/data/blob/master/hype/README.md 
+Goldenberg, R. G. (2019, March 4). The Pudding NBA Data. GitHub. Retrieved April 29, 2022, from https://github.com/the-                                                      pudding/data/blob/master/hype/README.md 
