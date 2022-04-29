@@ -1,6 +1,6 @@
 # Which NBA recruting year has the best overall players?
 
-This project explores NBA data between the years of 1998 and 2013 in order to determine which recruit year has produced the best overall NBA players. 
+This project explores NBA data between the years of 1998 and 2013 in order to determine which recruit year has produced the best overall NBA players based on certain performance indexes in the dataset. I would like to see if the conclusions reached with this data match the generally held opinions that are not based on any statistical information. 
 
 ## Data
 
@@ -64,3 +64,8 @@ One further comment to make about this data is the large number of missing value
 ![chartnulls](https://user-images.githubusercontent.com/74326062/165990518-6a87acf1-5048-4262-9c55-2e2d617a6944.png)
 
 Researching further, I believe there are null values for players who did not make it into the NBA, or did not play for a very long time. Because of this they have no information to be listed. So, the smaller amount of nulls for a recruit year means more players made it into the NBA and played for a longer time. Recruit year 1999 has the smallest amount of nulls at 69%. 
+
+# Sources
+
+Goldenberg, R. G. (2019, March 4). The Pudding NBA Data. GitHub. Retrieved April 29, 2022, from https://github.com/the-                                                       
+  pudding/data/blob/master/hype/README.md 
