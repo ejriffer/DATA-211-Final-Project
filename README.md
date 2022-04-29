@@ -44,8 +44,12 @@ The first step in my analysis was to total the number of each higest rank by yea
 ![2013highest-2](https://user-images.githubusercontent.com/74326062/165977574-740cfec6-8545-4d57-beb6-0a070b1b185d.png)
 ![Legend](https://user-images.githubusercontent.com/74326062/165979947-917d0173-aa7a-478a-9373-a2c571dc44d3.png)
 
-Based on the above graphs you can see that a majority of the players from each recruit year do not progress past college. 
+Based on the above graphs you can see that a majority of the players from each recruit year do not progress past college. The year with the most 'allstars' is 2004 with 7.
 
 ## Statistical Categories by Year
+![meanws48](https://user-images.githubusercontent.com/74326062/165988970-67e01db3-355f-46eb-8eb2-abe31b6eef9c.png)
+![meanvorp](https://user-images.githubusercontent.com/74326062/165989092-e3fbfe3a-6b2e-4f6a-b370-a4e74851b426.png)
+![meanpipm](https://user-images.githubusercontent.com/74326062/165989161-9715a69e-70f8-4912-9780-340115d98941.png)
+![meanwa](https://user-images.githubusercontent.com/74326062/165989179-48571525-22e8-46ec-aa0e-f672aace4d83.png)
 
 ## Missing Data
