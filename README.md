@@ -53,7 +53,7 @@ The next step in my analysis was graphing the average of each statistical catego
 ![Mean WS 48 by Recruit Year](https://user-images.githubusercontent.com/74326062/166815007-a2d772b2-c12a-4a05-934d-24a256f31b88.png)
 ![Mean VORP by Recruit Year](https://user-images.githubusercontent.com/74326062/166814821-88d76c2d-f5f4-416f-aa91-31ee10f2c907.png)
 ![Mean PIPM by Recruit Year](https://user-images.githubusercontent.com/74326062/166815223-7802edb1-3ff9-4bf6-a9a0-f3ae585770d9.png)
-![meanwa](https://user-images.githubusercontent.com/74326062/165989179-48571525-22e8-46ec-aa0e-f672aace4d83.png)
+![Mean WA by Recruit Year](https://user-images.githubusercontent.com/74326062/166815372-5eccc4d4-f0d3-428f-8fe9-0df5f1222126.png)
 
 Based on the graphs above we can see that 2 recruit years seem to be at the top of each statisitcal category: 2003 and 2009. In fact, 2003 has the best number for every statistical measure used in this project. Looking into this recruit class, the general consensus seems to agree that this is one of the best classes of all time. This class includes players such as: LeBron James, Carmelo Anthony, Chris Bosh, and Dwayne Wade.
 
