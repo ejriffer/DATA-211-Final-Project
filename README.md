@@ -61,8 +61,7 @@ Based on the graphs above we can see that 2 recruit years seem to be at the top 
 
 One further comment to make about this data is the large number of missing values. The below chart shows the percentage of each class that has no statistical data.
 
-![Percent Null by Year](https://user-images.githubusercontent.com/74326062/166815589-bc43f11e-ac28-4c8d-ba0c-f0b7c9c94247.png)
-
+![Percent Null by Year-2](https://user-images.githubusercontent.com/74326062/166815734-cc146f47-24c1-4c9a-9a79-683ba39cd32f.png)
 
 Researching further, I believe there are null values for players who did not make it into the NBA, or did not play for a very long time. Because of this they have no information to be listed. So, the smaller amount of nulls for a recruit year means more players made it into the NBA and played for a longer time. Recruit year 1999 has the smallest amount of nulls at 69%. 
 
