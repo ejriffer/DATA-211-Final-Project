@@ -50,7 +50,7 @@ Based on the above graphs you can see that a majority of the players from each r
 
 The next step in my analysis was graphing the average of each statistical category by recruit year to see if we could determine which year had the highest number for each measure.
 
-![meanws48](https://user-images.githubusercontent.com/74326062/165988970-67e01db3-355f-46eb-8eb2-abe31b6eef9c.png)
+![Mean WS 48 by Recruit Year](https://user-images.githubusercontent.com/74326062/166815007-a2d772b2-c12a-4a05-934d-24a256f31b88.png)
 ![Mean VORP by Recruit Year](https://user-images.githubusercontent.com/74326062/166814821-88d76c2d-f5f4-416f-aa91-31ee10f2c907.png)
 ![meanpipm](https://user-images.githubusercontent.com/74326062/165989161-9715a69e-70f8-4912-9780-340115d98941.png)
 ![meanwa](https://user-images.githubusercontent.com/74326062/165989179-48571525-22e8-46ec-aa0e-f672aace4d83.png)
