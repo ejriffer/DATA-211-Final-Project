@@ -26,6 +26,8 @@ The first step in my analysis was to total the number of each higest rank by yea
 
 Based on the above graphs you can see that a majority of the players from each recruit year do not progress past college. The year with the most 'allstars' is 2004 with 7.
 
+EXPAND ON DIFFERENT HIGH POINTS IN THE DATA
+
 ## Statistical Categories by Year
 
 The next step in my analysis was graphing the average of each statistical category by recruit year to see if we could determine which year had the highest number for each measure.
@@ -37,6 +39,8 @@ The next step in my analysis was graphing the average of each statistical catego
 
 Based on the graphs above we can see that 2 recruit years seem to be at the top of each statisitcal category: 2003 and 2009. In fact, 2003 has the best number for every statistical measure used in this project. Looking into this recruit class, the general consensus seems to agree that this is one of the best classes of all time. This class includes players such as: LeBron James, Carmelo Anthony, Chris Bosh, and Dwayne Wade.
 
+EXPAND
+
 ## Missing Data
 
 One further comment to make about this data is the large number of missing values. The below chart shows the percentage of each class that has no statistical data.
@@ -44,6 +48,12 @@ One further comment to make about this data is the large number of missing value
 ![Percent Null by Year-2](https://user-images.githubusercontent.com/74326062/166815734-cc146f47-24c1-4c9a-9a79-683ba39cd32f.png)
 
 Researching further, I believe there are null values for players who did not make it into the NBA, or did not play for a very long time. Because of this they have no information to be listed. So, the smaller amount of nulls for a recruit year means more players made it into the NBA and played for a longer time. Recruit year 1999 has the smallest amount of nulls at 69%. 
+
+EXPAND
+
+### Final Conclusions
+
+EXPAND
 
 ### Sources
 
