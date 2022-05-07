@@ -20,7 +20,7 @@ The data used for this project comes from players.csv and paths.csv. The specifi
 
 ## Highest Rank by Year
 
-The first step in my analysis was to total the number of each higest rank by year. The below graphs show the percent of each highest rank for each recruit year.
+The first step in my analysis was to total the number of each higest rank by year. The below graphs show the number of each highest rank for each recruit year.
 
 ![Players Highest Status by Year](https://user-images.githubusercontent.com/74326062/166969509-51fc101d-d027-4b78-9809-adc9c65ddf3e.png)
 
