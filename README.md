@@ -57,4 +57,4 @@ EXPAND
 
 ## Sources
 
-Goldenberg, R. G. (2019, March 4). The Pudding NBA Data. GitHub. Retrieved April 29, 2022, from https://github.com/the-Pudding/data/blob/master/hype/README.md 
+Goldenberg, R. G. (2019, March 4). The Pudding NBA Data. GitHub. Retrieved April 29, 2022, https://github.com/the-Pudding/data/blob/master/hype/README.md 
