@@ -24,20 +24,26 @@ The first step in my analysis was to total the number of each higest rank by yea
 
 ![Players Highest Status by Year](https://user-images.githubusercontent.com/74326062/166969509-51fc101d-d027-4b78-9809-adc9c65ddf3e.png)
 
-Based on the above graphs you can see that a majority of the players from each recruit year do not progress past college. 2004 has the most players that made it past college at 39, regardless of how good they were in the NBA. 1999 is second with 38 players the progressed past college, and 2007 is third with 37 players. The year with the most 'allstars' is 2004 with 7. 2002 and 2007 are the next highest at 4 'allstars'. So, from this graph we have some evidence that the recruit class of 2004 has the largest number of at least somewhat successful NBA players. 
+Based on the above graphs you can see that a majority of the players from each recruit year do not progress past college. 2004 has the most players that made it past college at 39, regardless of how good they were in the NBA. 1999 is second with 38 players the progressed past college, and 2007 is third with 37 players. The year with the most 'allstars' is 2004 with 7. 2002 and 2007 are the next highest at 4 'allstars'. 
+
+So, from this graph we have some evidence that the recruit classes of 2004 and 2007 have both the largest number of at players that both made the NBA and were successful in it.  
 
 ## Statistical Categories by Year
 
-The next step in my analysis was graphing the average of each statistical category by recruit year to see if we could determine which year had the highest number for each measure.
+The next step in my analysis was using a strip plot to graph each statistical category by recruit year to see if we could determine which year was the best for that particular measure.
 
 ![Mean WS 48 by Recruit Year](https://user-images.githubusercontent.com/74326062/166815007-a2d772b2-c12a-4a05-934d-24a256f31b88.png)
 ![Mean VORP by Recruit Year](https://user-images.githubusercontent.com/74326062/166814821-88d76c2d-f5f4-416f-aa91-31ee10f2c907.png)
 ![Mean PIPM by Recruit Year](https://user-images.githubusercontent.com/74326062/166815223-7802edb1-3ff9-4bf6-a9a0-f3ae585770d9.png)
 ![Mean WA by Recruit Year](https://user-images.githubusercontent.com/74326062/166815372-5eccc4d4-f0d3-428f-8fe9-0df5f1222126.png)
 
-Based on the graphs above we can see that 2 recruit years seem to be at the top of each statisitcal category: 2003 and 2009. In fact, 2003 has the best number for every statistical measure used in this project. Looking into this recruit class, the general consensus seems to agree that this is one of the best classes of all time. This class includes players such as: LeBron James, Carmelo Anthony, Chris Bosh, and Dwayne Wade.
+Based on the graphs above we can see that 2 recruit years seem to have the highest of each statisitcal category: 2003 and 2009. In fact, 2003 has the best number for every statistical measure used in this project. Looking into this recruit class, the general consensus seems to agree that this is one of the best classes of all time. This class includes players such as: LeBron James, Carmelo Anthony, Chris Bosh, and Dwayne Wade.
 
-EXPAND
+Looking at the graphs from a different perspective, we can see that the recruit classes of 2000 and 2003 seem to have the highest lowest value for each category. This means that that their worst players are better than other classes worst players. 
+
+All of the recruit years seem to be clustered around the same value, so while some of their best or worst players are better or worse than other years the averages for each year are all pretty similar. 
+
+So, based on these graphs we have some evidence that the recruit class of 2003 performed better than the other classes in this time period as it has both the highest high values, and the highest low values for each metric. 
 
 ## Missing Data
 
