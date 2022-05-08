@@ -37,7 +37,7 @@ The next step in my analysis was using a strip plot to graph each statistical ca
 ![Mean PIPM by Recruit Year](https://user-images.githubusercontent.com/74326062/166815223-7802edb1-3ff9-4bf6-a9a0-f3ae585770d9.png)
 ![Mean WA by Recruit Year](https://user-images.githubusercontent.com/74326062/166815372-5eccc4d4-f0d3-428f-8fe9-0df5f1222126.png)
 
-Based on the graphs above we can see that 2 recruit years seem to have the highest of each statisitcal category: 2003 and 2009. In fact, 2003 has the best number for every statistical measure used in this project. Looking into this recruit class, the general consensus seems to agree that this is one of the best classes of all time. This class includes players such as: LeBron James, Carmelo Anthony, Chris Bosh, and Dwayne Wade.
+Based on the graphs above we can see that 2 recruit years seem to have the highest of each statisitcal category: 2003 and 2009. In fact, 2003 has the best number for every statistical measure used in this project.
 
 Looking at the graphs from a different perspective, we can see that the recruit classes of 2000 and 2003 seem to have the highest lowest value for each category. This means that that their worst players are better than other classes worst players. 
 
@@ -51,13 +51,13 @@ One further comment to make about this data is the large number of missing value
 
 ![Percent Null by Year-2](https://user-images.githubusercontent.com/74326062/166815734-cc146f47-24c1-4c9a-9a79-683ba39cd32f.png)
 
-Researching further, I believe there are null values for players who did not make it into the NBA, or did not play for a very long time. Because of this they have no information to be listed. So, the smaller amount of nulls for a recruit year means more players made it into the NBA and played for a longer time. Recruit year 1999 has the smallest amount of nulls at 69%. 
+Researching further, I believe there are null values for players who did not make it into the NBA, did not play for a very long time, or were not successful in their NBA tenure. Because of this they have no information to be listed. 
 
-EXPAND
+So, the smaller amount of nulls for a recruit year means more players made it into the NBA and played for a longer time. Recruit year 1999 has the smallest amount of nulls at 69%. Recruit class 2007 and 2004 are the two next smallest at 73% and 74% respectively. This data seems to reflect the first graph, as 1999, 2004, and 2007 had the most players that made it into the NBA, which reinforces the idea that classes with fewer missing values had more successful NBA players.
 
 ## Final Conclusions
 
-EXPAND
+Looking into this recruit class, the general consensus seems to agree that this is one of the best classes of all time. This class includes players such as: LeBron James, Carmelo Anthony, Chris Bosh, and Dwayne Wade.
 
 ## Sources
 
