@@ -24,9 +24,7 @@ The first step in my analysis was to total the number of each higest rank by yea
 
 ![Players Highest Status by Year](https://user-images.githubusercontent.com/74326062/166969509-51fc101d-d027-4b78-9809-adc9c65ddf3e.png)
 
-Based on the above graphs you can see that a majority of the players from each recruit year do not progress past college. The year with the most 'allstars' is 2004 with 7.
-
-EXPAND ON DIFFERENT HIGH POINTS IN THE DATA
+Based on the above graphs you can see that a majority of the players from each recruit year do not progress past college. 2004 has the most players that made it past college at 39, regardless of how good they were in the NBA. 1999 is second with 38 players the progressed past college, and 2007 is third with 37 players. The year with the most 'allstars' is 2004 with 7. 2002 and 2007 are the next highest at 4 'allstars'. So, from this graph we have some evidence that the recruit class of 2004 has the largest number of at least somewhat successful NBA players. 
 
 ## Statistical Categories by Year
 
