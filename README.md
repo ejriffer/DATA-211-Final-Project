@@ -4,7 +4,7 @@ This project explores NBA data between the years of 1998 and 2013 in order to de
 
 ## Data
 
-The data used for this project comes from players.csv and paths.csv. The specific columns used are:
+The data used for this project comes from players.csv and paths.csv from 'The Pudding NBA Data' on Kaggle Data Sets. The specific columns used are:
 
 **name**: The player's name.
 
@@ -57,7 +57,9 @@ So, the smaller amount of nulls for a recruit year means more players made it in
 
 ## Final Conclusions
 
-Looking into this recruit class, the general consensus seems to agree that this is one of the best classes of all time. This class includes players such as: LeBron James, Carmelo Anthony, Chris Bosh, and Dwayne Wade.
+Based on the research conducted above there seems to be three recruit classes that stand out: 2003, 2004, and 2007. While 2004 and 2007 seem to have the largest number of successful players, 2003 looks to have the best recruit class, both as a class, and with the most successful individuals. 
+
+Looking into the 2003 recruit class it includes players such as: LeBron James, Carmelo Anthony, Chris Bosh, and Dwayne Wade. These have been some of the most successful players of the modern NBA era. So, the measures chosen to reaserch in this project seem to accuratly reflect success on the court. 
 
 ## Sources
 
