@@ -14,6 +14,8 @@ The data used for this project comes from players.csv and paths.csv from 'The Pu
 
 **nba_men_ws48**: The average win share Per 48 (ws48) minutes across all of a player's eligible seasons. This measure is based on their offense, defense, and playing time. A 'win share' is worth 1/3 of a team win.
 
+**nba_mean_vorp**: The average value over replacement player (vorp) across all of a player's eligible seasons. This measure is based on how much more value a player adds to their team over a 'replacement player' (or a slightly below average player) would add playing in their position. 
+
 **nba_mean_pipm**: The average player impact plus minus (pipm) across all of player's eligible seasons. This measure is a 'luck-adjusted' version of plus-minus which estimates a player's value over the course of a season based on their offenseive and defensive efficiency. 
 
 **nba_mean_wa**: The average wins added (wa) across all of player's eligible seasons. This measure shows how many more games a team won due to that player. 
@@ -50,7 +52,6 @@ So, based on these graphs we have some evidence that the recruit class of 2003 p
 One further comment to make about this data is the large number of missing values. The below chart shows the percentage of each class that has no statistical data.
 
 ![Percent Null by Year-3](https://user-images.githubusercontent.com/74326062/167311744-d1b7a5f9-6d0b-41ba-8897-bfbf86e2f9dc.png)
-
 
 Researching further, I believe there are null values for players who did not make it into the NBA, did not play for a very long time, or were not successful in their NBA tenure. Because of this they have no information to be listed. 
 
