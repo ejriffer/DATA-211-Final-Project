@@ -1,4 +1,4 @@
-# Which NBA recruting year has the best overall players?
+# Which NBA recruiting year has the best overall players?
 
 This project explores NBA data between the years of 1998 and 2013 in order to determine which recruit year has produced the best overall NBA players based on certain performance indexes in the dataset. I would like to see if the conclusions reached with this data match the generally held opinions that are not based on any statistical information. 
 
